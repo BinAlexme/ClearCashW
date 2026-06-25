@@ -12,7 +12,7 @@
 ```
 4. В панели управлени System/Scheduled Tasks вести значени минуты часы *** и действие. к примеру: reboot
 ```
- 	40 18 * * * /sbin/clear_cache.sh
+ 	40 18 * * * /sbin/MemWCashes.sh
 ```
 5. Перезагрузить м запустить cron:
 ```
